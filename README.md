@@ -1,12 +1,14 @@
 <h1 align="center">Libardo José Villero Paternina</h1>
 <h3 align="center">Software Developer from Colombia 🇨🇴</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=libardo07&label=Profile%20views&color=a50044&style=flat" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/400px-FC_Barcelona_%28crest%29.svg.png" alt="FC Barcelona" height="120px"/>
 </p>
+
 
 ---
 
-<img align="right" alt="FC Barcelona" width="180" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/400px-FC_Barcelona_%28crest%29.svg.png">
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🚀 Sobre mí
 
@@ -64,7 +66,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3> Sistema de Reportes Urbanos</h3>
+      <h3>🏙️ Sistema de Reportes Urbanos</h3>
       <p>
         <a href="https://github.com/Libardo07/reportes-urbanos">
           <img src="https://img.shields.io/badge/Ver%20proyecto-181717?style=for-the-badge&logo=github"/>
@@ -72,11 +74,11 @@
       </p>
       <p>🤝 Aplicación colaborativa para la gestión de reportes ciudadanos en Cartagena. Stack: Spring Boot · Thymeleaf · MongoDB Atlas · Spring Security</p>
     </td>
-    <td>
+    <td></td>
   </tr>
 </table>
 
-
+---
 
 <h2 align="center">💬 Frase</h2>
 <p align="center">
